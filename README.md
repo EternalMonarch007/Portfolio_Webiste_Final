@@ -1,5 +1,5 @@
 # Portfolio_Webiste_Final
-My Personal Portfolio website running it by bundling js codes using webpacking and making it much more interactive than the previous one.
+My Personal Portfolio website making it much more interactive than the previous one.
 Stuff-to-Add:
 1. Try to have evrything on 1 page, instead of redirecting to another page using tab switching feature you have used in the restaurant page.
 2. Try adding animations to the page.
